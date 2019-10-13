@@ -1,6 +1,15 @@
-body   {
-  background-image: url("quad.jpg"); 
+<html>
+<head>
+<style>
+#example1 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url("quad.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
+</style>
+</head>
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
