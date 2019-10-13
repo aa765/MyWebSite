@@ -1,5 +1,7 @@
 body {
   background-image: url("quad.jpg"); 
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 /* Add a black background color to the top navigation */
