@@ -3,7 +3,8 @@ body {
   background-repeat: no-repeat;
   background-size: 300px 100px;
 }
-
+</style>
+</head>
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
