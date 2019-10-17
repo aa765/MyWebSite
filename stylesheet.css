@@ -44,9 +44,10 @@ h3 {
 h1 {
   color: #000000;
 }
-
-.rotateimg90 {
-  -IMG_0407.JPG:rotate(90deg);
- 
+<html>
+<head>
+<style> 
+div.a {
+ transform: rotate(90deg);
 }
 	
