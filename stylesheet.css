@@ -47,6 +47,9 @@ h3 {
   margin: 1.66%;
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
+* {
+  box-sizing: border-box;
+}
 .column {
   float: left;
   width: 25%;
